@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "upload/img/menu-1.jpg",
+        "title": "Grills",
+        "price": "$45",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+
+    },
+    {
+        "id": 2,
+        "imgUrl": "upload/img/menu-2.jpg",
+        "title": "smoked meat",
+        "price": "$135",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 3,
+        "imgUrl": "upload/img/menu-3.jpg",
+        "title": "pasta",
+        "price": "$75",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 4,
+        "imgUrl": "upload/img/menu-4.jpg",
+        "title": "grilled meet",
+        "price": "$155",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 5,
+        "imgUrl": "upload/img/menu-5.jpg",
+        "title": "Breakfast meal",
+        "price": "$59",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 6,
+        "imgUrl": "upload/img/menu-6.jpg",
+        "title": "Chicken Burger",
+        "price": "$150",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 7,
+        "imgUrl": "upload/img/menu-7.jpg",
+        "title": "Penza",
+        "price": "$315",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    },
+    {
+        "id": 8,
+        "imgUrl": "upload/img/menu-8.jpg",
+        "title": "Buried meat",
+        "price": "$235",
+        "brg" : "Ipsum ipsum clita erat amet dolor justo diam"
+        
+    }
+]
